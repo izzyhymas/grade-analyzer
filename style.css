@@ -1,0 +1,43 @@
+body {
+    background-color: #172531;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    font-size: x-large;
+    margin-bottom: 100px;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    background-color: #456f93;
+    height: 300px;
+    max-width: 1200px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    padding: 15px 15px; 
+    font-size: 20px;
+    font-weight: 800;
+    background-color: #172531;
+    color: white;
+    border-radius: 15px;
+    border: none;
+
+}
